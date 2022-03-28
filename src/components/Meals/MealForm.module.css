@@ -1,0 +1,26 @@
+.form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 5px;
+}
+
+.amount{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.btn-div button{
+    border: none;
+    padding: 7px 20px;
+    color: white;
+    border-radius: 10px;
+    font-weight: bold;
+    background: #8a2b06;
+}
+
+.btn-div button:hover{
+    background: #471603;
+    cursor: pointer;
+}

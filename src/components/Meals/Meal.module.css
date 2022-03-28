@@ -1,0 +1,17 @@
+.meal-div{
+    border-bottom : 1px solid rgb(124, 122, 122);
+    padding: 10px 0px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.meal-div p{
+    color:rgb(124, 122, 122);
+    font-style: italic;
+}
+
+.price{
+    color: rgb(156, 58, 19);
+    font-weight: bold;
+}

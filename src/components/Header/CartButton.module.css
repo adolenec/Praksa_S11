@@ -1,0 +1,28 @@
+.cart-btn{
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    align-items: center;
+    background: rgba(87, 21, 21, .7);
+    padding: 10px 30px;
+    font-size: 15px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.cart-btn:hover{
+    background: rgba(87, 21, 21, 1);
+}
+
+.icon{
+    width: 1.5rem;
+    height: 1.5rem;
+}
+
+.amount{
+    background: rgb(231, 87, 30);
+    padding: 3px 10px;
+    border-radius: 10px;
+}
